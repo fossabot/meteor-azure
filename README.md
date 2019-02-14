@@ -1,4 +1,6 @@
 # meteor-azure
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Framijarrar%2Fmeteor-azure.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Framijarrar%2Fmeteor-azure?ref=badge_shield)
+
 
 Automate Meteor deployments on Azure App Service
 
@@ -45,3 +47,7 @@ Note that with this approach ROOT_URL should be prefixed with 'https' (if not al
 ### Example
 
 See the [meteor-azure-example](https://github.com/talos-code/meteor-azure-example) repo
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Framijarrar%2Fmeteor-azure.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Framijarrar%2Fmeteor-azure?ref=badge_large)
